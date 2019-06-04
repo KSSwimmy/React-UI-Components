@@ -1,1 +1,12 @@
 /* All styles for your Card Components live here */
+
+.cardImgContainer {
+    border: 3px solid green;
+    align-content: center;
+
+}
+
+.cardImg {
+    border: 5px solid blue;
+    width: 100%;
+}
