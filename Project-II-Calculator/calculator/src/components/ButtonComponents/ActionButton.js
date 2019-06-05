@@ -6,7 +6,7 @@ const ActionButton = () => {
 return (
 <div>
     <div className='actionButton'>
-    <div className='actoonZero'>
+    <div className='actionZero'>
         <p>0</p>
     </div>
 </div>
